@@ -24,9 +24,7 @@ Tenho experiência prática com desenvolvimento de aplicações integradas, uso 
 
 ### Back-end & Plataforma
 ![Apex](https://img.shields.io/badge/Apex-0D1117?style=for-the-badge&logo=salesforce)
-![Salesforce](https://img.shields.io/badge/Salesforce-0D1117?style=for-the-badge&logo=salesforce)
-![FFLIB](https://img.shields.io/badge/FFLIB-0D1117?style=for-the-badge)
-![Dependency%20Injection](https://img.shields.io/badge/Dependency_Injection-0D1117?style=for-the-badge)
+<img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
 ### Front-end
 ![LWC](https://img.shields.io/badge/LWC-0D1117?style=for-the-badge&logo=salesforce)
