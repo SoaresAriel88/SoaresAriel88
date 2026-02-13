@@ -23,14 +23,21 @@ Tenho experiência prática com desenvolvimento de aplicações integradas, uso 
 ## 💻 Tecnologias que utilizo
 
 ### Back-end
-![Apex](https://img.shields.io/badge/Apex-0D1117?style=for-the-badge&logo=salesforce)
+<div align="left">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" width="45" />
+  <img src="https://blog.secureflag.com/assets/images/secureflag-apex-logo.png" width="65" />
 
+</div>
 
 ### Front-end
-![LWC](https://img.shields.io/badge/LWC-0D1117?style=for-the-badge&logo=salesforce)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3)
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJVsTItnU9mU_EyrW6EOkgASicxkTsoPV9TA&s" width="90" title="LWC" />
+</div>
+
 
 ---
 
