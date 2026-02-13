@@ -46,31 +46,26 @@ Tenho experiência prática com desenvolvimento de aplicações integradas, uso 
 - Programação Orientada a Objetos (POO)
 - Separation of Concerns (SOC)
 - Single Responsibility Principle (SRP)
-- Trigger Handler Pattern
-- Trigger Dispatcher
-- Before / After Triggers
-- Master-Detail e Lookup
 - Integração com APIs REST
 - Organização em camadas (Controller, Service, Selector)
 
----
 
 ## 🛠 Ferramentas
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png" width="60" />
+</div>
 
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)
-![Salesforce CLI](https://img.shields.io/badge/Salesforce_CLI-0D1117?style=for-the-badge&logo=salesforce)
 
----
 
 ## 📚 Outros conhecimentos
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" />
+</div>
 
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql)
 
----
+
 
 ## 🌐 Contato
 
