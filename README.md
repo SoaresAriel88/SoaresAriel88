@@ -22,9 +22,9 @@ Tenho experiência prática com desenvolvimento de aplicações integradas, uso 
 ---
 ## 💻 Tecnologias que utilizo
 
-### Back-end & Plataforma
+### Back-end
 ![Apex](https://img.shields.io/badge/Apex-0D1117?style=for-the-badge&logo=salesforce)
-<img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
 
 ### Front-end
 ![LWC](https://img.shields.io/badge/LWC-0D1117?style=for-the-badge&logo=salesforce)
@@ -76,6 +76,6 @@ Tenho experiência prática com desenvolvimento de aplicações integradas, uso 
   </a>
 </div>
 
----
+![snake gif](https://github.com/ArturSm14/ArturSm14/blob/output/github-contribution-grid-snake.svg)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
