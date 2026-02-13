@@ -23,7 +23,6 @@ Tenho experiência prática com desenvolvimento de aplicações integradas, uso 
 ## 💻 Tecnologias que utilizo
 
 ### Back-end
-![NodeJS](https://img.shields.io/badge/Apex-0D1117?style=for-the-badge&logo=salesforce)
 ![Apex](https://img.shields.io/badge/Apex-0D1117?style=for-the-badge&logo=salesforce)
 
 
