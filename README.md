@@ -14,30 +14,6 @@ Tenho experiência prática com desenvolvimento de aplicações integradas, uso 
 📍 Fortaleza – CE  
 
 ---
-
-## 📊 GitHub Status
-
-<div align="center">  
-  <img width="48%" height="190px" src="https://github-readme-stats.vercel.app/api?username=SoaresAriel88&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="42%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresAriel88&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
----
-
-## 📈 Atividade no GitHub
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SoaresAriel88&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SoaresAriel88&theme=dracula&row=2&column=3&no-bg=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 💻 Tecnologias que utilizo
 
 ### Back-end & Plataforma
