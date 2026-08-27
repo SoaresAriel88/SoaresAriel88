@@ -8,13 +8,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/SoaresAriel88">
-    <img src="https://github-readme-stats-lac-theta-48.vercel.app/api?username=SoaresAriel88&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" alt="GitHub Stats" />
-    <img src="https://github-readme-stats-lac-theta-48.vercel.app/api/top-langs/?username=SoaresAriel88&layout=compact&hide_border=true&langs_count=8&theme=dark" alt="Top Languages" />
-  </a>
-</div>
-
 ## 👋 Sobre mim
 
 Sou **estagiário de Desenvolvimento Fullstack na Sertanus Tecnologia** e **estudante de Análise e Desenvolvimento de Sistemas (ADS)**, com foco em **desenvolvimento back-end** e construção de soluções bem estruturadas, aplicando boas práticas de arquitetura e organização de código.
@@ -43,14 +36,6 @@ Tenho experiência prática com desenvolvimento de aplicações integradas, uso 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,html,css" />
   </a>
-</div>
-
-### Salesforce
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 </div>
 
 ### Ferramentas de Desenvolvimento
