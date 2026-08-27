@@ -45,14 +45,6 @@ Tenho experiência prática com desenvolvimento de aplicações integradas, uso 
   </a>
 </div>
 
-### Salesforce
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-</div>
-
 ### Ferramentas de Desenvolvimento
 
 <div align="left">
