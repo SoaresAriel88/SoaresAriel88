@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/SoaresAriel88">
-  <img height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SoaresAriel88&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+  <img height="100%" src="https://github-readme-stats.vercel.app/api?username=SoaresAriel88&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresAriel88&layout=compact&hide_border=true&langs_count=8&theme=dark"/>
 </div>
 
@@ -27,7 +27,6 @@ Tenho experiência prática com desenvolvimento de aplicações integradas, uso 
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" width="45" />
   <img src="https://blog.secureflag.com/assets/images/secureflag-apex-logo.png" width="65" />
-
 </div>
 
 ### Front-end
@@ -37,7 +36,6 @@ Tenho experiência prática com desenvolvimento de aplicações integradas, uso 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJVsTItnU9mU_EyrW6EOkgASicxkTsoPV9TA&s" width="90" title="LWC" />
 </div>
-
 
 ---
 
@@ -49,23 +47,27 @@ Tenho experiência prática com desenvolvimento de aplicações integradas, uso 
 - Integração com APIs REST
 - Organização em camadas (Controller, Service, Selector)
 
+---
+
+## 🔭 O que estou estudando no momento
+
+- **Assistentes de IA no Desenvolvimento:** Integrando ferramentas como Gemini e ChatGPT no fluxo de trabalho para análise e otimização de código.
+- **Ambientes de Desenvolvimento Avançados:** Configuração de IDEs como VS Code integrados ao Google Antigravity, buscando setups de alta produtividade e baixo consumo de memória.
+
+---
 
 ## 🛠 Ferramentas
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" />
 </div>
-
-
 
 ## 📚 Outros conhecimentos
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" />
 </div>
-
-
-
 
 ## 🌐 Contato
 
