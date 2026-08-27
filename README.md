@@ -45,6 +45,14 @@ Tenho experiência prática com desenvolvimento de aplicações integradas, uso 
   </a>
 </div>
 
+### Salesforce
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+</div>
+
 ### Ferramentas de Desenvolvimento
 
 <div align="left">
@@ -87,7 +95,7 @@ Tenho experiência prática com desenvolvimento de aplicações integradas, uso 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SoaresArie188/SoaresArie188/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/ArturSm14/ArturSm14/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
