@@ -9,9 +9,9 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/SoaresAriel88">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=SoaresAriel88&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" alt="GitHub Stats" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresAriel88&layout=compact&hide_border=true&langs_count=8&theme=dark" alt="Top Languages" />
+  <a href="https://github.com/SoaresArie188">
+    <img src="https://github-readme-stats.vercel.app/api?username=SoaresArie188&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresArie188&layout=compact&hide_border=true&langs_count=8&theme=dark" alt="Top Languages" />
   </a>
 </div>
 
@@ -21,9 +21,9 @@ Sou **estagiário de Desenvolvimento Fullstack na Sertanus Tecnologia** e **estu
 
 Tenho experiência prática com desenvolvimento de aplicações integradas, uso de APIs, organização em camadas, princípios de POO e Separation of Concerns — incluindo passagem anterior trabalhando com Salesforce (Apex, LWC, SOQL) na C3C Software. Atualmente, estou aprofundando meus conhecimentos na construção de sistemas escaláveis e comunicação em tempo real.
 
-🎓 ADS – Análise e Desenvolvimento de Sistemas
-💼 Estagiário Fullstack – Sertanus Tecnologia
-📍 Fortaleza – CE
+🎓 ADS – Análise e Desenvolvimento de Sistemas  
+💼 Estagiário Fullstack – Sertanus Tecnologia  
+📍 Fortaleza – CE  
 
 ---
 
@@ -90,6 +90,12 @@ Tenho experiência prática com desenvolvimento de aplicações integradas, uso 
   <a href="https://www.linkedin.com/in/ariel-soares-341488341/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SoaresArie188/SoaresArie188/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
