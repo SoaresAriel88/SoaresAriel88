@@ -5,9 +5,10 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/SoaresAriel88">
-  <img height="100%" src="https://github-readme-stats.vercel.app/api?username=SoaresAriel88&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresAriel88&layout=compact&hide_border=true&langs_count=8&theme=dark"/>
+  <a href="https://github.com/SoaresArie188">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SoaresArie188&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresArie188&layout=compact&hide_border=true&langs_count=8&theme=dark"/>
+  </a>
 </div>
 
 ## 👋 Sobre mim
@@ -20,6 +21,7 @@ Tenho experiência prática com desenvolvimento de aplicações integradas, uso 
 📍 Fortaleza – CE  
 
 ---
+
 ## 💻 Tecnologias que utilizo
 
 ### Back-end
@@ -39,6 +41,20 @@ Tenho experiência prática com desenvolvimento de aplicações integradas, uso 
 
 ---
 
+## 🔭 O que estou estudando no momento
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" title="VS Code" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="45" title="ChatGPT" style="margin-left: 15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="45" title="Gemini" style="margin-left: 15px;" />
+</div>
+<br>
+
+- **Assistentes de IA:** Integrando ferramentas como Gemini e ChatGPT no fluxo de desenvolvimento para análise de código e otimização.
+- **Ambientes de Desenvolvimento:** Configuração avançada de IDEs (como VS Code) e integração com o Google Antigravity, buscando máxima eficiência e menor consumo de memória (RAM).
+
+---
+
 ## 🧠 Conceitos & Arquitetura
 
 - Programação Orientada a Objetos (POO)
@@ -49,24 +65,12 @@ Tenho experiência prática com desenvolvimento de aplicações integradas, uso 
 
 ---
 
-## 🔭 O que estou estudando no momento
-
-- **Assistentes de IA no Desenvolvimento:** Integrando ferramentas como Gemini e ChatGPT no fluxo de trabalho para análise e otimização de código.
-- **Ambientes de Desenvolvimento Avançados:** Configuração de IDEs como VS Code integrados ao Google Antigravity, buscando setups de alta produtividade e baixo consumo de memória.
-
----
-
-## 🛠 Ferramentas
+## 🛠 Ferramentas & Outros Conhecimentos
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png" width="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" />
-</div>
-
-## 📚 Outros conhecimentos
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" style="margin-left: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" style="margin-left: 10px;" />
 </div>
 
 ## 🌐 Contato
